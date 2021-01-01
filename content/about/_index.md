@@ -2,6 +2,10 @@
 title: About the Author
 description: ''
 featured_image: "/images/notebook.jpg"
+menu:
+  main:
+    name: ''
+    weight: 2
 draft: true
 
 ---
