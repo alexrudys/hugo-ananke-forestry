@@ -1,6 +1,6 @@
 +++
 description = ""
 featured_image = ""
-title = ""
+title = "About the Author"
 
 +++
