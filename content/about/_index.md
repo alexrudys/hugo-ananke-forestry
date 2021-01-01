@@ -2,6 +2,7 @@
 title: About the Author
 description: ''
 featured_image: "/images/notebook.jpg"
+draft: true
 
 ---
 {{< figure src="/images/dsc00154.jpg" title="Do I need text here?" >}}
